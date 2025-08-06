@@ -15,7 +15,7 @@
 
 ## Table of Contents
 
-* [Introduction](#introduction)
+ [Introduction](#introduction)
 * [Pre-requisites](#pre-requisites)
 * [Step-by-Step Setup Guide (Performed on GitHub)](#step-by-step-setup-guide-performed-on-github)
 
