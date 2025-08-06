@@ -1,8 +1,6 @@
 # VCS Authn & Authz Strategy – Notification Documentation
 
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/9dbeda3b-e6a1-42c0-8c0e-890241abd4cc" />
-
 ---
 
 ##   Author Information
